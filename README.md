@@ -63,9 +63,9 @@ By improving presentation skills and reducing entry barriers, Lumoro AI empowers
 
 ## Tech Stack
 
-- **Frontend:** React or Flask with Tailwind / Chakra UI  
-- **Backend/API:** Node.js or Python Flask with OpenAI GPT-4o API or local LLM like Mixtral  
-- **Deployment:** Vercel (React) or Render/Heroku (Flask)  
+- **Frontend:** React with Tailwind
+- **Backend/API:** Python Flask with OpenAI GPT-4o API or local LLM like Mixtral  
+- **Deployment:** Vercel (React) and Render (Flask)  
 - **Additional Tools:** Axios/fetch for API calls, preview links for demo  
 
 ---
